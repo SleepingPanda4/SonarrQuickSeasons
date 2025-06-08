@@ -13,6 +13,8 @@ All show files must be formatted "Show Name (YYYY)" **EXAMPLE** Brooklyn Nine-Ni
 **We are not liable for broken shows if your files are not labeled correctly!**
 
 
+![CreateSeasonExample](https://github.com/SleepingPanda4/SonarrQuickSeasons/blob/main/CreateSeasons1.PNG)
+
 ### INSTRUCTIONS:
 **REQUIRED:**
 Create an account at www.themoviedb.org and then grab **API Key** from https://www.themoviedb.org/settings/api. Replace the **README** inside CreateSeasons.py with your **API Key**!
@@ -44,4 +46,6 @@ Create an account at www.themoviedb.org and then grab **API Key** from https://w
 
 
 You can create this into a CronTab job to run weekly.
+
+
 
