@@ -4,7 +4,7 @@ import shutil
 import requests
 
 # Your TMDb API key
-API_KEY = "c93f62867cc29d064aa36d5e93986e8d"
+API_KEY = "README"
 
 # Regex pattern to match folder name format
 FOLDER_PATTERN = re.compile(r"^(.*?) \((\d{4})\) \{tvdb-(\d+)\}$")
